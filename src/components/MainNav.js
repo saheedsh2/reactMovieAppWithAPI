@@ -56,7 +56,7 @@ export default function SimpleBottomNavigation() {
       />
       <BottomNavigationAction
         style={{ color: "white" }}
-        label="TV Serives"
+        label="TV Series"
         icon={<TvIcon />}
       />
 
